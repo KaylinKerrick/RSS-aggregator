@@ -361,8 +361,3 @@ public final class RSSAggregator {
     }
 
 }
-
-// Note for future self: For it to run I had to enter the direct path to
-// the xml file. Copy and paste this:
-// C:\Users\kayli\OneDrive\Documents\OsuCseWsTemplate\workspace\feeds.xml
-// The I did news.html
